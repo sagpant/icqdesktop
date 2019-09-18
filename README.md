@@ -1,0 +1,1 @@
+**[Repository moved here](https://github.com/mail-ru-im/im-desktop)**.
